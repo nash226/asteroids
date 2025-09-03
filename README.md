@@ -35,7 +35,7 @@ git clone https://github.com/nash226/asteroids.git
 cd asteroids
 
 pip install pygame
-
+```
 ---
 
 Controls
