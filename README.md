@@ -40,9 +40,11 @@ pip install pygame
 
 Controls
 
-w / d — Rotate ship
+A / D — Rotate ship L / R
 
-⬆️ — Thrust forward
+w — Thrust forward
+
+S - Reverse thrust
 
 Spacebar — Shoot
 
