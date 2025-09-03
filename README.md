@@ -49,3 +49,6 @@ Spacebar — Shoot
 close window — Quit game
 
 ---
+
+![Gameplay demo](gameplay_gif.mov)
+
