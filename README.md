@@ -49,16 +49,3 @@ Spacebar — Shoot
 close window — Quit game
 
 ---
-
-Project Structure
-
-src
-├── main.py           # Entry point and game loop
-├── player.py         # Player spaceship logic
-├── asteroid.py       # Asteroid behavior
-├── shot.py           # Player shots logic
-├── circleshape.py    # Base class for circular entities
-|__ constants.py      # Game constants and settings
-
-<video controls src="Screen Recording 2025-09-03 at 3.19.05 AM.mov" title="Title"></video>
-
